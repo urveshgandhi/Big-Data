@@ -1,3 +1,18 @@
 -->What is Big Data?
-    Everyone is creating almost 40 Exabytes data per month.
+    The different types of data being generated from various sources, categorized into three main types:
+
+Structured Data:
+
+Data that is organized in a defined format such as tables.
+Examples: Rows and columns in a database (e.g., Excel sheets, SQL databases).
+Semi-Structured Data:
+
+Data that does not conform to a strict structure like tables but still has some organizational properties for easier parsing.
+Examples: JSON, XML, CSV, TSV files, and Emails.
+Unstructured Data:
+
+Data that has no predefined structure and is difficult to organize or analyze without special tools.
+Examples: Log files, audio, video, images, and other multimedia files.
+ 
+Everyone is creating almost 40 Exabytes data per month.
 
