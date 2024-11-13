@@ -1,0 +1,37 @@
+Big data Evaluation 
+● 1960 - txt files
+ ● 1970 - spreadsheets/DBMS
+ ● 1980 - RDBMS but Licenced
+ ● 1990 - Data warehouse (many RDBMS) - Damm costly
+ ● 1995 - DFS found by Doug Cutting but failed due to processing wasn’t good
+ ● 2003 - Google released GFS paper  same as DFS == GFS
+ ● 2004 - Google Released Mapreduce paper → Distributed Processing → Doug Cutting
+ read the paper and was Shocked
+ ● 2005 - DFS enhanced and use  Mapreduce
+ ● 2006 - DFS + Mapreduce =  Hadoop (name on son's elephant Doll) , HDFS and Mapreduce
+ ● 2008 - Emerged a lot  -- Problem -- Hey Mapreduce code is damn hard to understand
+ JAVA —>  Doug Cutting said --> do not worry I have a solution to simplify MapReduce
+—>  Learn SQL —>  Trigger SQL —> I will ensure my TOOL converts SQL query to
+ Mapreduce JAVA
+ ● I found a tool, it looks like SQL but not --- If you trigger any queries -- it converts into a
+ Mapreduce JAVA
+ ● In 2008 - Hive and Pig came into the market
+   ○ Mark Zuckerberg --- Facebook using --- HIVE
+   ○ Yahoo--using -- PIG  (Not Popular)
+ ● 2009 -CLOUDERA - Problem was  --for  installation and Maintenance -need Laptop
+   ○ Give me Laptop But Installation, maintenance, and Upgrade - are Paid services
+ ● 2011  - HortonWorks - Give me laptop and Installation —> Free, Maintenance and
+ Upgrade are Paid
+ ● 2014 -SPARK-  Birth of a super Power
+   ○ Superpower, Process data very faster, Free of cost, Will perform SQL, Will
+ support Streaming, Will support Machine learning, Can run ON Hadoop
+ ● 2016 -Cloud- I will give u laptops, I will install, upgrade, and Maintenance
+   ○ AWS EMR - Single Click of Button Hadoop Laptops will be ready within 10 Min by
+     AWS
+   ○ Azure HDInsights
+   ○ Google cloud platform - GCP
+   ○ Alibaba cloud
+ ● 2017 - Cloudera Bought Horton works
+ ● 2022 -- We live in the Cloud Big Data market = Cloud-based Hadoop Big Data analytics
+
+ Cloud Hadoop Spark   ===> Crazy Technology today
